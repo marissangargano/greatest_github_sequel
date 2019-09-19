@@ -7,4 +7,4 @@
     Resolution - how is the conflict resolved?
 
 ## Let the Story Begin!
-Once upon a time, 
+Once upon a time, there was an ugly duckling. 
